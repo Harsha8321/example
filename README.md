@@ -22,9 +22,8 @@ Ensure you have the following installed:
 
 ### Python Libraries
 Install the required libraries using:
-''' 
-pip install -r requirements.txt
-'''
+* 'pip install -r requirements.txt'
+
 
 ## PostgreSQL Configuration
 1. Create a PostgreSQL database (e.g., rfp_extractor).
